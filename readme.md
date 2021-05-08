@@ -9,4 +9,4 @@
 > > - Testeknél térfogat és a felszín képletei vannak feltüntetve
 > > - Síkidomoknál a terület és kerület képletei vannak feltüntetve
 >
-> Az oldal itt érhető el:
+> Az oldal itt érhető el: https://viziandras.github.io/K-T-V-A-kalkulator/index.html
