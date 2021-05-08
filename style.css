@@ -1,0 +1,59 @@
+html,
+body {
+  background-color: #e6f9ff;
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+}
+
+.card-header,
+.card-body {
+  text-align: center;
+}
+
+.card {
+  max-width: 300px;
+  min-width: 150px;
+  height: 300px;
+  background-color: #ccf2ff;
+}
+
+.button1 {
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+  border-radius: 49px;
+  text-align: center;
+  border: 0px;
+}
+
+.cont-pos {
+  top: 125px;
+}
+
+.header1 {
+  text-align: center;
+  top: 50px;
+}
+
+hr {
+  height: 1px;
+  background: black;
+}
+
+.nyomogomb {
+  width: 30px;
+}
+
+button {
+  text-align: bottom;
+  background-color: #ccf2ff;
+}
+button:hover {
+  background-color: #b3edff;
+  color: white;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  -o-box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
